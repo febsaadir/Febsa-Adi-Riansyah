@@ -3,8 +3,8 @@ Project Collaborative Filltering
 
 Nama : Febsa Adi Riansyah
 
-Nim :
+Nim :171011400574
 
-Kelas :
+Kelas :07TPLM004
 
-Matkul :
+Matkul :SIstem Penunjang Keputusan
